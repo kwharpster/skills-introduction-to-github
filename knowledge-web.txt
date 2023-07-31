@@ -1,1 +1,1 @@
-mathematics, Git and GitHub, how computers work, programming concepts and languages, operating systems, file systems, the command line, problem solving, networking 
+mathematics, Git and GitHub, VS Code, how computers work, programming concepts and languages, operating systems, file systems, the command line, problem solving, networking, security
