@@ -6,6 +6,8 @@ VS Code docs
 GitHub docs
 ProGit
 Ben Eater
-A History of Greek Mathematics
+A History of Greek Mathematics (Heath)
+Euclid (Heath)
+Calculus (Kline)
 Missing Semester
 
