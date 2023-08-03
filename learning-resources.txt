@@ -11,3 +11,5 @@ Euclid (Heath)
 Calculus (Kline)
 Missing Semester
 Concrete Mathematics: A Foundation for Computer Science
+Eloquent JavaScript (https://eloquentjavascript.net)
+JavaScript Crash Course (March 2024)
