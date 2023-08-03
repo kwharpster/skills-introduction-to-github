@@ -1,1 +1,1 @@
-mathematics, Git and GitHub, VS Code, how computers work, programming concepts and languages, operating systems, file systems, the command line, problem solving, networking, security
+mathematics (the whole tree, leading to calculus and differential equations, Git and GitHub, VS Code, how computers work, programming concepts and languages, operating systems, file systems, the command line, problem solving, networking, security
